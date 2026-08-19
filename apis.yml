@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/city-helsi
 name: City, Helsinki
 description: "Helsinki(FI) City Open Data"
 url: https://hri.fi/en_gb/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
