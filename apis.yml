@@ -39,7 +39,6 @@ apis:
   - name: City, Helsinki
     description: "Helsinki(FI) City Open Data"
     humanURL: https://hri.fi/en_gb/
-    baseURL: https://hri.fi/en_gb/
     tags:
       - Government
     properties:
